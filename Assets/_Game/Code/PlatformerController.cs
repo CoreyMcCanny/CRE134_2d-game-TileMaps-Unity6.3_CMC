@@ -1,6 +1,7 @@
 using UnityEngine;
 
 public class PlatformerController : MonoBehaviour
+
 {
     [Header("Movement Settings")]
     [SerializeField] private float moveSpeed = 7f;
